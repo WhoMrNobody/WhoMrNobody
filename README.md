@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WhoMrNobody
-- 👀 I’m interested in Flutter and 3D & 2D Game Developing with Unity
-- 🌱 I’m currently learning Flutter Coding
-- 💞️ I’m looking to collaborate on person who coding Flutter or Game Developing
+- 👀 I’m interested in 3D & 2D Game Development in Unity Game Engine
+- 🌱 I’m currently learning Game Development
+- 💞️ I’m looking to collaborate on person who coding Game Developing
 - 📫 You can reach me via email. My email address is the.emrehun@gmail.com
 
 <!---
