@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emre Hün 
-- 👀 I’m interested in 3D & 2D Game Development in Unity Game Engine
-- 🌱 I’m currently learning Game Development in Unity
+- 👀 I’m interested in 3D Game Development in Unreal Engine 5
+- 🌱 I’m currently learning and improving my Game Development Skills in Unreal Engine 5
 - 💞️ I’m looking to collaborate with people who coding in Game Development
 - 📫 You can reach me via email. My email address is the.emrehun@gmail.com
 
